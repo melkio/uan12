@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace demo.Unit04
+{
+    [EnableSingleton("Instance")]
+    public class Singleton
+    {
+    }
+}

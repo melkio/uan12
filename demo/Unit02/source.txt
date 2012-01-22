@@ -1,0 +1,7 @@
+﻿public class Calculator
+{
+    public static object Evaluate()
+    {
+        return $;
+    } 
+}
